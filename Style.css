@@ -2,5 +2,10 @@ h1{
     position: fixed;
     top: 50%;
     left: 50%;
-    background-color: hotpink;
+    /* background-color: hotpink; */
+    background: linear-gradient(to right , rgb(220, 70, 70),rgb(105, 255, 230));
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
